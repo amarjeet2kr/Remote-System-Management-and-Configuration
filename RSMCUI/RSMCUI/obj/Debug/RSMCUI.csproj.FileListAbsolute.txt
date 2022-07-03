@@ -1,0 +1,9 @@
+D:\Project\RSMCUI\RSMCUI\bin\Debug\RSMCUI.exe.config
+D:\Project\RSMCUI\RSMCUI\obj\Debug\RSMCUI.csprojResolveAssemblyReference.cache
+D:\Project\RSMCUI\RSMCUI\obj\Debug\RSMCUI.RSMCUI.resources
+D:\Project\RSMCUI\RSMCUI\obj\Debug\RSMCUI.Properties.Resources.resources
+D:\Project\RSMCUI\RSMCUI\obj\Debug\RSMCUI.csproj.GenerateResource.Cache
+D:\Project\RSMCUI\RSMCUI\bin\Debug\RSMCUI.exe
+D:\Project\RSMCUI\RSMCUI\bin\Debug\RSMCUI.pdb
+D:\Project\RSMCUI\RSMCUI\obj\Debug\RSMCUI.exe
+D:\Project\RSMCUI\RSMCUI\obj\Debug\RSMCUI.pdb

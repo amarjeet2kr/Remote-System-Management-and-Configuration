@@ -1,0 +1,32 @@
+
+
+DeviceID     : C:
+DriveType    : 3
+ProviderName : 
+FreeSpace    : 234385182720
+Size         : 369734184960
+VolumeName   : Local
+
+DeviceID     : D:
+DriveType    : 5
+ProviderName : 
+FreeSpace    : 
+Size         : 
+VolumeName   : 
+
+DeviceID     : E:
+DriveType    : 3
+ProviderName : 
+FreeSpace    : 296526708736
+Size         : 314572795904
+VolumeName   : New Volume
+
+DeviceID     : F:
+DriveType    : 3
+ProviderName : 
+FreeSpace    : 298814406656
+Size         : 314571747328
+VolumeName   : New Volume
+
+
+

@@ -1,0 +1,13 @@
+D:\Project\RSMCUI\RSMCUI\bin\Release\RSMCUI.exe.config
+D:\Project\RSMCUI\RSMCUI\bin\Release\RSMCUI.exe
+D:\Project\RSMCUI\RSMCUI\bin\Release\RSMCUI.pdb
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.RSMCUI.resources
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.Properties.Resources.resources
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.csproj.GenerateResource.Cache
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.exe
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.pdb
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.AboutBox1.resources
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.csprojResolveAssemblyReference.cache
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.Install.resources
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.Uninstall.resources
+D:\Project\RSMCUI\RSMCUI\obj\Release\RSMCUI.Settings.resources
